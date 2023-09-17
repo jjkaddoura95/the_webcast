@@ -1,0 +1,10 @@
+Manchester City,Nottingham Forest
+Crystal Palace,Fulham
+Luton Town,Wolves
+Brentford,Everton
+Burnley,Manchester United
+Chelsea,Aston Villa
+Arsenal,Tottenham
+Liverpool,West Ham
+Brighton,Bournemouth
+Sheffield United,Newcastle
